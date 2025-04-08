@@ -1,4 +1,4 @@
-Deep Learning (Computer Vision)
+**Deep Learning (Computer Vision)**
 
 Deep Learning School (https://stepik.org/course/181974/info) (16.09.2023 - 4.02.2024)
 
@@ -26,7 +26,7 @@ Deep Learning School (https://stepik.org/course/181974/info) (16.09.2023 - 4.02.
   
 
 
-Deep Learning (Natural language processing)
+**Deep Learning (Natural language processing)**
 
 Deep Learning School (https://stepik.org/course/181974/info) (27.01.2025 - 26.04.2025)
 
